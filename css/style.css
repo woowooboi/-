@@ -1,0 +1,28 @@
+.symbol {
+    font-size: 50px;
+    text-decoration-color: black;
+}
+
+.col s1 {
+    font-size: 40px;
+}
+
+#sub-head{
+    color: rgb(43, 94, 128);
+    font-size: 40px;
+}
+
+#artist {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#album {
+    font-weight: lighter;
+    color: grey;
+}
+
+#pics {
+    padding-right: 20rem;
+    
+}

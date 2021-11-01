@@ -1,0 +1,38 @@
+.symbol {
+    font-size: 50px;
+    text-decoration-color: black;
+}
+
+.col s1 {
+    font-size: 40px;
+}
+
+#sub-head{
+    color: rgb(43, 94, 128);
+    font-size: 40px;
+}
+
+#artist {
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#album {
+    font-weight: lighter;
+    color: grey;
+}
+
+#pics {
+    padding-right: 20rem;
+    
+}
+
+.background {
+    background: url(../img/F18234DB-CF81-4645-AC68-670322D0D17E.JPG);
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;
+    color: white;
+    font-weight:bolder;
+    font-size: 2rem;
+}
+
